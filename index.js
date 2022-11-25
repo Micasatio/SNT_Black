@@ -1,4 +1,4 @@
-console.log('✅ㅤIniciando...')
+console.log('😈ㅤIniciando el bot más tercermundista')
 
 let cluster = require('cluster')
 let path = require('path')
@@ -9,7 +9,7 @@ const Readline = require('readline')
 const yargs = require('yargs/yargs')
 const rl = Readline.createInterface(process.stdin, process.stdout)
 
-CFonts.say('SimpleBot - MD', {
+CFonts.say('Black - MD', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
@@ -54,7 +54,7 @@ function start(file) {
   })
   p.on('exit', code => {
     isRunning = false
-    console.error('❎ㅤOcurrio un error inesperado:', code)
+    console.error('❎ㅤNooo la puta mierda currio un error inesperado:', code)
     p.kill()
     isRunning = false
     start.apply(this, arguments)
