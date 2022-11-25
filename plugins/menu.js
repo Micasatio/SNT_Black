@@ -5,11 +5,13 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let menu = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *✨𝗛ola, ${taguser} :D*
+║➤ *✨𝗛ola, ${taguser} Este es el menú completo de BlackBot*
+║➤ *Número del creador: +595 983 186566*
+║➤ *Prefijo usado: ${usedPrefix}*
+║➤ *Acuérdate de tomar awita*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
-┃ *< COMANDOS >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟💫 _a_
 ┣ ඬ⃟💫 _${usedPrefix}cat_
@@ -72,9 +74,9 @@ let menu = `
 ┗━━━━━━━━━━━━━┛
 `.trim()
 let buttons = [
-{ buttonId: '#owner', buttonText: { displayText: '💫 𝐎𝐖𝐍𝐄𝐑 💫' }, type: 1 },
-{ buttonId: '#runtime', buttonText: { displayText: '⏰ 𝐑𝐔𝐍𝐓𝐈𝐌𝐄 ⏰' }, type: 1 },
-{ buttonId: '#infohost', buttonText: { displayText: '👑 𝐈𝐍𝐅𝐎𝐇𝐎𝐒𝐓 👑' }, type: 1 }]
+{ buttonId: '#ttp gay de mierda', buttonText: { displayText: '🤨 Salí del Closet 🤨' }, type: 1 },
+{ buttonId: '#grupos', buttonText: { displayText: '😈 Grupos Oficiales 😈' }, type: 1 },
+{ buttonId: '#bot sale chape?', buttonText: { displayText: '😏 Sale chape 😏' }, type: 1 }]
 let buttonMessage = {
 image: fs.readFileSync('./Menu2.jpg'),
 caption: menu.trim(),
