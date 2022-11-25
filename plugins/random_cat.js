@@ -4,7 +4,8 @@ try {
 let res = await fetch('https://cataas.com/cat')
 let img = await res.buffer()
 let caption = `
-*©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡*
+😸 Un Michi 😸
+*©black_bot*
 `.trim()
 conn.sendFile(m.chat, img, 'cat.jpg', caption, m)
 } catch (e) {
