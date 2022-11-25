@@ -9,22 +9,8 @@
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/Micasatio/SNT_Black/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/SimpleBot/blob/master/config.js)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Micasatio/SNT_Black/blob/master/config.js)
 
-### `—◉ 💥 ACTIVAR EN ACIDICNODES 💥`
-<a href="https://billing.acidicnodes.com"><img src="https://billing.acidicnodes.ml/storage/icon.png" width="200" height="200" alt="AcidicNodes"/></a>
-- TUTORIAL: [https://youtu.be/nbjvreJ0tUk](https://youtu.be/nbjvreJ0tUk)
-- PAGINA: [https://billing.acidicnodes.com](https://billing.acidicnodes.com)
-- SOPORTE: [https://whatsapp.acidicnodes.com](https://whatsapp.acidicnodes.com)
-
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/SimpleBot)
-```bash
-AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-> https://github.com/bogini/heroku-buildpack-graphicsmagick
-```
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
@@ -65,6 +51,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="300" height="300" alt="BrunoSobrino"/></a>
+<a href="https://github.com/Micasatio"><img src="https://github.com/Micasatio.png" width="300" height="300" alt="Micasatio"/></a>
 
-`TheMystic-Bot-MD _ By Bruno Sobrino`
+`Black_Bot _ By SNT_OFC`
