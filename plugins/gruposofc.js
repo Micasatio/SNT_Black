@@ -1,6 +1,6 @@
 let handler = async (m, { conn }) => {
 m.reply(`
-*Hola* @user ¿cómo está? Espero que bien 😊
+*Hola*  ${taguser} ¿cómo está? Espero que bien 😊
 _Te invito a unirte a los grupos oficiales de_ *Black_Bot*
 
 1- https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC
