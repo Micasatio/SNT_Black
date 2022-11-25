@@ -1,7 +1,7 @@
 {
-    "name": "SimpleBot",
+    "name": "Black_Bot",
     "version": "1.0.0",
-    "description": "Subscribete al canal de YT The Shadow Borkers",
+    "description": "Tengo hambre :(",
     "depecrated": false,
     "main": "index.js",
     "directories": {
