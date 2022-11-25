@@ -14,7 +14,7 @@ global.linkUrlbot = "https://www.instagram.com/ilmanhdyt_"
 //=========================================================================//
 
 global.DeveloperMode = 'false' 
-global.linkGC = []
+global.linkGC = ['12533001641']
 global.mods = [] 
 global.prems = [] 
 global.APIs = { 
