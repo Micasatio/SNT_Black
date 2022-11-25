@@ -27,8 +27,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/Micasatio/BK_Bot
-> cd BK_Bot
+> git clone https://github.com/Micasatio/SNT_Black
+> cd SNT_Black
 > yarn install
 > npm install
 > npm update
@@ -42,7 +42,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd BK_Bot
+> cd SNT_Black
 > npm start
 ```
 
@@ -50,7 +50,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd BK_Bot
+> cd SNT_Black
 > rm -rf session.data.json
 > npm start
 ```
