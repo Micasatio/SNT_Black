@@ -10,8 +10,8 @@
 > NINGUNO DE LOS NUMEROS SON BOTS 
 
 <img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px"> Dame Una Estrella Porfa <img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px">
-### `—◉ 🥵 BOT OFICIAL 🥵`
-<a href="https://youtu.be/w8aVNvv1rmQ" target="blank"><img src="https://img.shields.io/badge/-SNT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+### `—◉ 🥵 Canal De Youtube del Bot 🥵`
+<a href="https://youtu.be/C5DRJMAcpjA" target="red"><img src="https://img.shields.io/badge/-SNT-25D366?style=for-the-badge&logo=youtube&logoColor=red" /></a>
 > 🤪
 <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="98px">
 
