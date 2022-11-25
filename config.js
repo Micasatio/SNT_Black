@@ -1,9 +1,9 @@
 //============= Datos del Bot =============//
 
-global.owner = ['5219996125657']
+global.owner = ['595983186566']
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '𝕊𝕚𝕞𝕡𝕝𝕖𝔹𝕠𝕥'
-global.wm = '𝕊𝕚𝕞𝕡𝕝𝕖𝔹𝕠𝕥'
+global.author = 'Black_Bot'
+global.wm = 'Black_Bot'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 //============= urlButtons =============//
