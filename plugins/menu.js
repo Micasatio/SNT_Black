@@ -90,10 +90,10 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 𝐀𝐜𝐢𝐝𝐢𝐜𝐍𝐨𝐝𝐞𝐬 𝐇𝐨𝐬𝐭 👑',
+title: '',
 body: null,
 thumbnail: fs.readFileSync('./src/logo.png'),
-sourceUrl: `pornhub.com`
+sourceUrl: ``
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
