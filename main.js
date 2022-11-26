@@ -129,7 +129,7 @@ global.reloadHandler = function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = '*╔══════════════*\n*╟❧ Hello 👋*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ 𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳𝙾/𝙰* @subject\n*║*\n*╟❧ Lee la descripción del grupo 👍*\n*╟❧* @desc\n*║*\n*╟❧ Disfruta de tu estadía en este lindo grupo!!*\n*╚══════════════*'
+  conn.welcome = '*╔══════════════*\n*╟❧ Hello 👋*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ 𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳𝙾/𝙰* Este Grupo Cristiano 🙏\n*║*\n*╟❧ Lee la descripción del grupo 👍*\n*╟❧* @desc\n*║*\n*╟❧ Disfruta de tu estadía en este lindo grupo!!*\n*╚══════════════*'
   conn.bye = '*╔══════════════*\n*╟❧ *Se fue la puta de* @user*\n*╟❧ Ojalá te viole un caballo 🐴* \n*╚══════════════*'  
   conn.spromote = '@user Es admin :) !'
   conn.sdemote = '@user ya no es admin :(!'
