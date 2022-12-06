@@ -3,7 +3,7 @@ let _uptime = process.uptime() * 1000
 let uptime = clockString(_uptime)
 m.reply(`
 *┌─〔 ＡＣＴＩＶＯ 〕*
-*├ *Black_Bot estuvo activo ${uptime}*
+*├ *Sapito_Bot estuvo activo ${uptime}*
 *└───────────────*
 `.trim())}
 handler.help = ['runtime']
