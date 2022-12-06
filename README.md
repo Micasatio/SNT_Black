@@ -11,8 +11,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/Micasatio/Sapitopito
-> cd Sapitopito
+> git clone https://github.com/Micasatio/SNT_Black
+> cd SNT_Black
 > yarn install
 > npm install
 > npm update
