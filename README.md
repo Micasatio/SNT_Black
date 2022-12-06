@@ -1,2 +1,3 @@
 Sapito_Bot
-#### Descargar en termux
+#### Activar en termux
+
