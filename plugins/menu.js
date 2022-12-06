@@ -5,9 +5,10 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let menu = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *✨𝗛ola, ${taguser} Este es el menú completo de BlackBot*
-║➤ *Número del creador: +595 983 186566*
+║➤ *✨𝗛ola, ${taguser} Este es el menú completo de Sapito_Bot*
+║➤ *Número del creador¹: +595 983 186566*
 ║➤ *Prefijo usado: ${usedPrefix}*
+║➤ *Número del creador²: +52 453 110 6422*
 ║➤ *Acuérdate de tomar awita*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
