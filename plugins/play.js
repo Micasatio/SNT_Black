@@ -20,7 +20,7 @@ conn.sendFile(m.chat, thumb, 'error.jpg', `
 `.trim(), m, false, { 
 contextInfo: { externalAdReply: {
 title: 'ʀᴇᴘʀᴏᴅᴜᴄᴛᴏʀ ᴅᴇ ʏᴏᴜᴛᴜʙᴇ',
-body: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡', 
+body: '©𝑆a𝑝𝑖t𝑜𝐵𝑜𝑡', 
 sourceUrl: `https://github.com/BrunoSobrino/SimpleBot`, 
 thumbnail: fs.readFileSync('./Menu2.jpg') }}})
 conn.sendFile(m.chat, dl_link, title + '.mp' + (3 + /2$/.test(command)), `
