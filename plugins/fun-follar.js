@@ -8,7 +8,6 @@ conn.reply(m.chat, `
 🤤🥵 *¡𝐘𝐀 𝐓𝐄 𝐇𝐀𝐍 𝐅𝐎𝐋𝐋𝐀𝐃𝐎!* 🥵🤤`, null, { mentions: [user] })
 }
 
-handler.command = /^(follar|violar)/i
+handler.command = /^(Follar|violar)/i
 handler.fail = null
-handler.register = true
 export default handler
